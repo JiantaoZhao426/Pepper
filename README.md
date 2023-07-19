@@ -1,1 +1,1 @@
-# Pepper
+# Pepper resequencing project
