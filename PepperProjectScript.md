@@ -1,4 +1,4 @@
-# Scripts of the Pepper Project
+# Scripts of the Pepper Resequencing Project
 
 ## Author: Jiantao Zhao (Email: jz426@cornell.edu; jiantaozhao426@gmail.com)
 
